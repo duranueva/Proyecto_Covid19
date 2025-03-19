@@ -4,7 +4,7 @@
   <img src="/tools/img/img_1.png" alt="Description" width="1000">
 </p>
 
-Jean Durán Villanueva. Marzo 2024.
+Jean Durán Villanueva. Marzo 2025.
 
 # Resumen
 
