@@ -1,0 +1,13 @@
+real_column_name,transformation,same_responses?
+"Response ID",response_id,yes
+"What year were you born?",birth_year,close
+"What is your gender?",gender,close
+"Which of the following best describes your industry?",industry,close
+"Which of the following best describes your current occupation?",job_role,close
+"How many people are currently employed by your organisation?",total_amount_of_workers,close
+"Which of the following best describes your household?",type_of_household,close
+"How long have you been in your current job?  If you have more than one job, please answer all questions for your main job.",time_in_current_job,yes
+"Metro or Regional",metro_or_regional,yes
+"Imagine that COVID-19 is cured or eradicated.   Going forward, how much of your work time would you prefer to work remotely?  If you work a 5 day week, each day of remote working equals 20% of your time.",covid19_eradicated_time_preferred_remotely_in_a_week,close
+"Imagine that COVID-19 is cured or eradicated.    How likely would you consider the following statements?   - My employer would encourage more remote working",covid19_eradicated_agree_with_more_remote_work,close
+"Imagine that COVID-19 is cured or eradicated.    How likely would you consider the following statements?   - My employer would make changes to support remote working",covid19_eradicated_agree_with_employer_make_changes_to_more_remote_work,close
