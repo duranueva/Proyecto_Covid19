@@ -1,0 +1,49 @@
+# Documentación: Analisis y Dashboard de Airbnb en Ciudad de México
+
+
+# Resumen
+
+# Introducción
+
+**Contexto y Motivación:** 
+**Objetivos del Proyecto:** 
+
+# Descripción de los Datos
+
+**Fuente de los Datos:**  
+**Formato, Volumen:** 
+**Extracción de Datos:** 
+
+# Metodología y Herramientas Utilizadas
+
+**Entorno de Trabajo:** Utilicé un Notebook de Google Colab con Python, lo que facilita la reproducibilidad del análisis. En el, la libreria pandas para la manipulación y transformación de los datos. Convertí los datos ya transformados a un formato Excel para poder utilizar los datos en Power BI y desplegarlos en un dashboard interactivo. 
+## **Procesamiento de Datos:**
+**Limpieza y Preprocesamiento:**  
+
+## **Análisis Exploratorio:** 
+
+#  Visualización y Dashboard:
+
+- **Obtención de datos:**
+
+- **Gráfico 1:** 
+
+- **Gráfico 2:** 
+
+- **Gráfico n:** 
+
+# Resultados y Análisis
+
+## Hallazgos Clave:
+
+# Conclusiones y Recomendaciones
+
+# Desafíos y Lecciones Aprendidas
+
+# Referencias y Anexos
+- [Repositorio de Github](https://github.com/duranueva/Proyecto_Covid19)
+- [Dashboard Power BI (Archivo)](https://google.com)
+- [Notebook de Python](https://google.com)
+- [Dataset](https://google.com)
+- [Sitio de Datos Airbnb, donde se tomó el Dataset](https://google.com)
+- [Inmuebles creados para el modelo de renta Airbnb](https://google.com)
