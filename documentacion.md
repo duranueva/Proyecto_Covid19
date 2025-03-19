@@ -47,8 +47,6 @@ Jean Durán Villanueva. Marzo 2024.
 
 # Referencias y Anexos
 - [Repositorio de Github](https://github.com/duranueva/Proyecto_Covid19)
-- [Dashboard Power BI (Archivo)](https://google.com)
+- [Dashboard Power BI (Archivo)](https://github.com/duranueva/Proyecto_Covid19/blob/main/proyecto_covid19.pbix)
 - [Notebook de Python](https://google.com)
-- [Dataset](https://google.com)
-- [Sitio de Datos Airbnb, donde se tomó el Dataset](https://google.com)
-- [Inmuebles creados para el modelo de renta Airbnb](https://google.com)
+- [Datasets Origen](https://github.com/duranueva/Proyecto_Covid19/tree/main/tools/data_origen)
